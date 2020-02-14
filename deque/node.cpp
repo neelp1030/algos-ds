@@ -1,5 +1,4 @@
 /*
-    ECE250
     node.cpp
     Purpose: Class to represent a node for a doubly linked list, to be used by the Deque class to function as a deque.
     Provides basic services of getting and setting the three member variables: data (int), next (pointer to Node), and prev (pointer to Node)
